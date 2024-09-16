@@ -39,7 +39,7 @@ Los valores de los balances se expresan en Satoshis (SAT), la unidad más peque�
 
 ### 🛠️ prueba técnica de CUBO+
 
-[VIDEO]:
+[VIDEO]: https://drive.google.com/file/d/1UTMQ1QsqSWw7X-Mu9W8RZGHKXrgp4BzK/view?usp=sharing
 
 
 ## 📧 Contacto
