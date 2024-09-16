@@ -37,7 +37,7 @@ Los valores de los balances se expresan en Satoshis (SAT), la unidad más peque�
 
 -visual Studio code: editor de codigo fuente para el desarrollo.
 
-### prueba técnica de CUBO+
+### 🛠️ prueba técnica de CUBO+
 
 [VIDEO]:
 
