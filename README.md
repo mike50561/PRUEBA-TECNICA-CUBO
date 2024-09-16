@@ -43,5 +43,5 @@ Los valores de los balances se expresan en Satoshis (SAT), la unidad más peque�
 
 
 ## 📧 Contacto
--  👨‍💻 Desarrollador: Miguel Angel Herrera Arreaga
--  📧 Correo electrónico: miguel50561@gmail.com.
+-  👨‍💻 Desarrollador: Miguel Angel Herrera
+-  📧 Correo electrónico: miguel50561@gmail.com
